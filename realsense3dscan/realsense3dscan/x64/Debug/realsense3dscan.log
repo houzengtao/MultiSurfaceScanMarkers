@@ -1,0 +1,29 @@
+﻿  main.cpp
+c:\program files (x86)\intel realsense sdk 2.0\include\librealsense2\hpp\rs_device.hpp(251): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\program files (x86)\intel realsense sdk 2.0\samples\example.hpp(115): warning C4244: “初始化”: 从“const std::size_t”转换到“float”，可能丢失数据
+c:\program files (x86)\intel realsense sdk 2.0\samples\example.hpp(335): warning C4244: “初始化”: 从“const std::size_t”转换到“float”，可能丢失数据
+c:\program files (x86)\intel realsense sdk 2.0\samples\example.hpp(464): warning C4244: “初始化”: 从“const std::size_t”转换到“float”，可能丢失数据
+c:\program files (x86)\intel realsense sdk 2.0\samples\example.hpp(468): warning C4244: “初始化”: 从“const std::size_t”转换到“float”，可能丢失数据
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: “APIENTRY”: 宏重定义
+  c:\program files (x86)\intel realsense sdk 2.0\third-party\glfw-imgui\include\glfw\glfw3.h(85): note: 参见“APIENTRY”的前一个定义
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(20): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(21): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(190): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(191): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(192): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(198): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(199): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(200): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(207): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(208): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(209): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(252): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(261): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(271): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(284): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(285): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3dscan\realsense3dscan\main.cpp(244): warning C4101: “upoint”: 未引用的局部变量
+  realsense3dscan.vcxproj -> C:\Users\xin\documents\visual studio 2015\Projects\realsense3dscan\x64\Debug\realsense3dscan.exe
+  realsense3dscan.vcxproj -> C:\Users\xin\documents\visual studio 2015\Projects\realsense3dscan\x64\Debug\realsense3dscan.pdb (Full PDB)
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\bin\x64\realsense2.dll
+  复制了 1 个文件
